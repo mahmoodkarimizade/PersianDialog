@@ -49,7 +49,8 @@ public class MainActivity extends AppCompatActivity
         B5=(Button)findViewById(R.id.main_activity_button5);
 
 
-        //define true and false dialog
+        //define true and false dialog (question dialog)
+        
         trueFalseDialog=new TrueFalseDialog(this);
         trueFalseDialog.message.setText("Your Question ?");
         trueFalseDialog.tFalse.setText("Cancel");
@@ -85,7 +86,7 @@ public class MainActivity extends AppCompatActivity
             }
         });
 
-        //define check network dialog
+        //define check network dialog (wifi dialog)
         checkNetWorkDialog=new CheckNetWorkDialog(this);
         checkNetWorkDialog.message.setText("Plz check your network and try again!");
         checkNetWorkDialog.tWifi.setText("OK");
