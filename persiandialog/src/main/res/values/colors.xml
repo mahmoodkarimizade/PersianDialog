@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#2C2E2F</color>
+    <color name="colorPrimaryDark">#0E0E0E</color>
+    <color name="colorAccent">#FF9C00</color>
+
+    <color name="gray">#AEB9C0</color>
+    <color name="white">#FFFFFF</color>
+    <color name="red">#FFE22E26</color>
+    <color name="editText1">#000000</color>
+    <color name="editText2">#FFFFFF</color>
+    <color name="textView1">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="green">#FF2BC38A</color>
+
+    <color name="selectitemtools">#448aff</color>
+
+    <color name="black_semi_transparent">#B2000000</color>
+</resources>
