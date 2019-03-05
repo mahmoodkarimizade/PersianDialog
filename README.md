@@ -101,9 +101,8 @@ selectImageDialog.iCamera.setOnClickListener(new View.OnClickListener() {
 </pre>
 
 # License
+[MIT License](License.txt)
 <pre>
-![MIT License](License.txt)
-
 Copyright (c) 2019 Mahmood Karimizade
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
