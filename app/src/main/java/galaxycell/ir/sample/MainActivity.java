@@ -49,8 +49,7 @@ public class MainActivity extends AppCompatActivity
         B5=(Button)findViewById(R.id.main_activity_button5);
 
 
-        //define true and false dialog (question dialog)
-        
+        //define true and false dialog (question dialog)1111
         trueFalseDialog=new TrueFalseDialog(this);
         trueFalseDialog.message.setText("Your Question ?");
         trueFalseDialog.tFalse.setText("Cancel");
